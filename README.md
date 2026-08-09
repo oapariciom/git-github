@@ -1,4 +1,4 @@
-# Contenido de este repositorio otto
+# Contenido de este repositorio Otto Aparicio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 
